@@ -8,13 +8,15 @@ Portfolio: [geovanedd.me](https://geovanedd.me)
 
 ### [Ajazzy](https://github.com/Geovane2dd/Ajazzy)
 
-A Linux driver for Ajazz mice. The vendor's configuration software only runs on Windows, so I captured the USB traffic with Wireshark, reverse-engineered the HID protocol and reimplemented it in C on top of libusb.
+A Linux driver for Ajazz mice. The vendor's configuration software only runs on Windows, so I captured the USB traffic with Wireshark, reverse-engineered the HID protocol and reimplemented it in C.
 
-- Control DPI, RGB and macros natively on Linux
+- Control DPI, RGB, buttons and macros natively on Linux, from a GTK4 app or a CLI
 - No vendor software, no Windows VM
 - Built from packet captures and protocol analysis
 
-`C` `libusb` `USB HID` `Wireshark`
+[Website](https://ajazzy.geovanedd.com) · [Source](https://github.com/Geovane2dd/Ajazzy)
+
+`C` `GTK4` `USB HID` `Wireshark`
 
 ## Other work
 
