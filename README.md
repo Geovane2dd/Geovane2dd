@@ -2,7 +2,7 @@
 
 Developer from Brazil. I write open-source software, mostly self-hosted tools and low-level Linux work, and I care about privacy and performance.
 
-Portfolio: [geovanedd.me](https://geovanedd.me)
+Portfolio: [geovanedd.com](https://geovanedd.com)
 
 ## Featured project
 
